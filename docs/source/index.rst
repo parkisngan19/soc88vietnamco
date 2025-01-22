@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+Soc88 🎖️ Soc 88 | Link Đăng Ký Trang Chủ Nhà Cái Soc88
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Soc88 <https://soc88vietnam.co/>`_ được thành lập từ năm 2008, đã khẳng định vị thế của mình là sân chơi hàng đầu tại Việt Nam. Với hơn 646 trò chơi đa dạng, từ  thể thao, game bài, live casino đến nổ hũ, Soc88 mang đến cơ hội trúng thưởng hàng tỷ đồng mỗi ngày cho người chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Được cấp phép hoạt động hợp pháp bởi cơ quan quản lý cờ bạc Isle of Man, Soc88 cam kết mang đến trải nghiệm chơi game an toàn và minh bạch. Đặc biệt, tỷ lệ thắng lên đến 70% cùng các chương trình khuyến mãi hấp dẫn khiến Soc88 trở thành lựa chọn hàng đầu cho người chơi. 
 
-.. note::
+Doanh nghiệp Soc88 có địa web tại https://soc88vietnam.co/ – cung cấp link đăng ký, đăng nhập và tin tức chính hãng từ nhà cái Soc88 cho thị trường Việt Nam kể từ ngày 1/1/2025
 
-   This project is under active development.
+Thông tin liên hệ: 
 
-Contents
---------
+Địa chỉ: 258c Bà Hom, Phường 13, Quận 6, Hồ Chí Minh, Việt Nam. 
 
-.. toctree::
+Phone: 0756287985. 
 
-   usage
-   api
+Email: info@soc88vietnam.co. 
+
+Website: https://soc88vietnam.co/ 
+
+#soc88 #trangchusoc88 #dangkysoc88 #dangnhapsoc88 #linksoc88 #nhacaisoc88 #soc88vietnam_co #soc88_casino
